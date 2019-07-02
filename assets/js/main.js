@@ -13,5 +13,5 @@ xhr.onreadystatechange = function() {
     }
 };
 
-xhr.open('GET', 'https://michael-scott-quotes-api.herokuapp.com/randomQuote');
+xhr.open('GET', 'http://quotes.rest/qod.json');
 xhr.send();
