@@ -1,3 +1,22 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 var xhr = new XMLHttpRequest();
 // Setup our listener to process request state changes
 xhr.onreadystatechange = function() {
@@ -13,5 +32,5 @@ xhr.onreadystatechange = function() {
     }
 };
 
-xhr.open('GET', 'http://quotes.rest/qod.json');
+xhr.open('GET', "https://bad-fortune-cookie.herokuapp.com/fortunes/");
 xhr.send();
