@@ -8,13 +8,14 @@
 /*Basic Styling*/
 body {
   background-image: url(../../images/background.jpg);
+  background-size:cover;
 }
 
 h1{
   padding-top: 22px;
-  font-size: 3em;
+  font-family: 'Indie Flower', cursive, italic;
+  font-size: 4em;
   color: #fff;
   display: flex;
   justify-content: center;
-
 }
