@@ -13,7 +13,7 @@ body {
 }
 
 h1{
-  padding-top: 22px;
+  padding-top: 137px;
   font-family: 'Indie Flower', cursive, italic;
   font-size: 4em;
   color: #fff;
@@ -25,10 +25,15 @@ h1{
 .reveal {
   display: flex;
   justify-content: center;
-border-radius: 8px;
-font-size: 0.8em;
-flex-grow: 1;
-color: blue;
+  padding-top: 110px;
+}
+input[type="submit"] {
+  color: white;
+  background: border-box;
+  border-radius: 16px;
+  font-size: 1.6em;
+  font-weight: bold;
+  width: 300px;
 }
 
 
