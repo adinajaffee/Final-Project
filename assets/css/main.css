@@ -22,7 +22,31 @@ h1{
 }
 
 /*icon styling*/
+#social-media {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: -20%;
+  }
 
+  #twitter {
+    color: hsl(206,88%,59%);
+  }
+
+  #facebook {
+    color: #fff;
+  }
+
+  #email {
+    color: red;
+  }
+
+.icon {
+  border:inset;
+  border-radius: 20px;
+  margin: 9px;
+  color: #fff;
+  padding: 3px;
+}
 
 /*Fortune Paragraph Styling*/
 #fortune {
