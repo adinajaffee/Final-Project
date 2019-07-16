@@ -10,6 +10,7 @@ body {
   background-image: url(../../images/background.jpg);
   background-size:cover;
   background-repeat: no-repeat;
+  height: 100vh;
 }
 
 h1{
@@ -60,7 +61,7 @@ footer {
 
   #sign-up {
     font-family: 'Indie Flower', cursive, italic;
-    
+
   }
 
   #email-input {
@@ -69,28 +70,3 @@ footer {
     width: 13%;
     height: 4vh;
   }
-
-
-
-
-
-
-
-
-/*Media Queries */
-
-@media (max-width: 600px) {
-
-body {
-  height: auto;
-  }
-
-  }
-header {
-  position: absolute;
-  top: 0;
-  width: 80%;
-  padding-top: 14px;
-}
-
-}
