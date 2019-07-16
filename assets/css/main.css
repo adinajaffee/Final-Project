@@ -92,19 +92,22 @@ footer {
 
   #sign-up {
     font-family: 'Indie Flower', cursive, italic;
-<<<<<<< HEAD
-
-=======
-    margin: -8px;
->>>>>>> Adina
   }
 
   #email-input {
     padding: 8.5px;
-    font-size: small;
+    font-size: x-small;
     border-radius: 25px;
     width: 160px;
     height: 3vh;
+  }
+
+  #ANJ-tag {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 13px;
+    font-size: smaller;
+    margin-top: -15px;
   }
 
   #subscribe {
