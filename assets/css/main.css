@@ -22,6 +22,37 @@ h1{
   justify-content: center;
 }
 
+/*icon styling*/
+#social-media {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: -20%;
+  }
+
+  #twitter {
+    color: hsl(206,88%,59%);
+  }
+
+  #facebook {
+    color: #fff;
+  }
+
+  #email {
+    color: red;
+  }
+
+  #instagram {
+    color:hsl(342,67%,55%);
+  }
+
+.icon {
+  border:inset;
+  border-radius: 20px;
+  margin: 9px;
+  color: #fff;
+  padding: 3px;
+}
+
 /*Fortune Paragraph Styling*/
 #fortune {
   font-family: 'Indie Flower', cursive, italic;
@@ -61,12 +92,23 @@ footer {
 
   #sign-up {
     font-family: 'Indie Flower', cursive, italic;
+<<<<<<< HEAD
 
+=======
+    margin: -8px;
+>>>>>>> Adina
   }
 
   #email-input {
+    padding: 8.5px;
+    font-size: small;
+    border-radius: 25px;
+    width: 160px;
+    height: 3vh;
+  }
+
+  #subscribe {
     font-size: 1em;
-    border-radius: 20%;
-    width: 13%;
-    height: 4vh;
+    width: 6%;
+    height: 3.5vh;
   }
