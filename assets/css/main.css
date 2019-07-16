@@ -40,6 +40,10 @@ h1{
     color: red;
   }
 
+  #instagram {
+    color:hsl(342,67%,55%);
+  }
+
 .icon {
   border:inset;
   border-radius: 20px;
