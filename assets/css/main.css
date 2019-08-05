@@ -26,7 +26,7 @@ h1{
 #social-media {
   display: flex;
   justify-content: flex-end;
-  margin-right: -20%;
+  margin-right: 10px;
   }
 
   #twitter {
