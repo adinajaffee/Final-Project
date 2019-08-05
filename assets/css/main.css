@@ -60,6 +60,7 @@ h1{
   color: #fff;
   border-radius: 16px;
   width: fit-content;
+  padding-bottom: 3%;
 }
 
 
@@ -72,7 +73,7 @@ h1{
   padding-top: 2%;
 }
 input[type="submit"] {
-  margin-top: 5.5px;
+  margin-top: 25.5px;
   color: #fff;
   background: border-box;
   border-radius: 16px;
